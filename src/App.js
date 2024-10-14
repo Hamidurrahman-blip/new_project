@@ -1,9 +1,10 @@
-import logo from './logo.svg';
+
+import Navbar from './component/Navbar';
 
 function App() {
   return (
-    <div className="bg-blue-600">
-      <h1 className='text-7xl'>hello world!</h1>
+    <div >
+      <Navbar/>
       
         </div>
   );
