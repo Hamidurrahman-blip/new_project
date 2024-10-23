@@ -16,7 +16,7 @@ function Navbar() {
             </div>
             <div className=' flex justify-between items-center gap-3'>
               <div className='group relative hidden sm:block'>
-                <input className=' w-[200px] sm:w-[200px] border rounded-full border-gray-300 group-hover:w-[300px] transition-all duration-300 focus:outline-none focus:border-1 focus:border-primary px-2 py-2' placeholder='Serch' type='text'/>
+                <input className=' w-[200px] sm:w-[200px] border rounded-full border-gray-300 group-hover:w-[300px] transition-all duration-300 focus:outline-none focus:border-1 focus:border-primary px-2 py-2' placeholder='Search' type='text'/>
           <IoMdSearch className='absolute top-1/3 right-4 group-hover:text-primary text-gray-300'/>
          
 
